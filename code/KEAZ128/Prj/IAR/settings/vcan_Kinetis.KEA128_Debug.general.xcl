@@ -1,0 +1,15 @@
+"D:\BaiduNetdiskDownload\iar\arm\bin\armproc.dll" 
+
+"D:\BaiduNetdiskDownload\iar\arm\bin\armjlink2.dll" 
+
+"E:\resources\smart_car\prj\code\KEAZ128\Prj\IAR\KEA128_Debug\Exe\vcan_Kinetis.out" 
+
+--plugin "D:\BaiduNetdiskDownload\iar\arm\bin\armbat.dll" 
+
+--device_macro "D:\BaiduNetdiskDownload\iar\arm\config\debugger\NXP\KExx.dmac" 
+
+--flash_loader "E:\resources\smart_car\prj\code\KEAZ128\Prj\IAR\config files\FlashKE04Z128_4.board" 
+
+
+
+
