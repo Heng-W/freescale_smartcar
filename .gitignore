@@ -6,9 +6,14 @@
 **/settings/*.cspy.* 
 **/settings/*.xcl 
 **/settings/*.dni 
+**/settings/*.wsdt 
+**/settings/*.wspos 
 
 # IAR Debug Exe 
-**/Exe/*.sim 
+**/Exe/*.sim
+
+# IAR Debug List
+**/List/
 
 # IAR Debug Obj 
 **/Obj/
