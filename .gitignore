@@ -1,0 +1,14 @@
+
+# IAR Settings 
+**/settings/*.crun 
+**/settings/*.dbgdt 
+**/settings/*.cspy 
+**/settings/*.cspy.* 
+**/settings/*.xcl 
+**/settings/*.dni 
+
+# IAR Debug Exe 
+**/Exe/*.sim 
+
+# IAR Debug Obj 
+**/Obj/
